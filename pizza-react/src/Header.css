@@ -1,0 +1,35 @@
+header{
+    background-color: #27272A;
+    color: white;
+    font-style: bold;
+}
+
+.container{
+    display: flex;
+    margin-left: 150px;
+    flex-direction: row;
+  
+}
+#ulist{
+    list-style: none;
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between;
+    font-size: larger;
+    
+}
+#SearchBox{
+    margin-top: 10px;
+    margin-left: calc(20%);
+    border: solid 1px black;
+    border-radius: 5px;
+    
+}
+#logo{
+    color: white;
+}
+
+.btn{
+    margin-left: 18px;
+    margin-top: 2px;
+}

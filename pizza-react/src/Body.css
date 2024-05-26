@@ -1,0 +1,59 @@
+body {
+    background-color: #27272A;
+    margin-top: 20px;
+}
+
+.container {
+    margin-top: 20px;
+    color: white;
+}
+
+.menu {
+    width: 90%;
+    display: flex;
+    padding-left: 160px;
+
+
+}
+
+#text {
+    width: 100%;
+}
+
+.lbl {
+    margin-top: 40px;
+}
+
+.contact {
+    margin-left: 160px;
+}
+
+.container-contact {
+    width: 85%;
+}
+
+.container-cmt {
+    width: 85%;
+    margin-top: 30px;
+}
+
+#smt {
+    margin: 0px;
+}
+
+#txt1{
+position: absolute;
+background-color: yellow;
+height: 25px;
+font-weight: bold;
+}
+#oprice{
+    text-decoration: line-through;
+}
+#nprice{
+    color: orange;
+    font-weight: bold;
+}
+#cmt{
+    height: 200px;
+}
